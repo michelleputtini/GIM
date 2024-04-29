@@ -4,9 +4,9 @@ Corso di Grafica in Movimento - SUPSI
 https://github.com/michelleputtini/GIM.git
 
 
-#### COLLEGAMENTI CARTELLA
+## COLLEGAMENTI CARTELLA
 
-## Esercizio 1a
+#### Esercizio 1a
 acceso_spento_2
     https://michelleputtini.github.io/GIM//Esercizio_1A/template/acceso_spento_2.html
 
@@ -31,7 +31,7 @@ spostamento_2
 spostamento_3
     https://michelleputtini.github.io/GIM//Esercizio_1A/template/spostamento_3.html
 
-## Esercizio 1b
+#### Esercizio 1b
 
 asse orizzontale matita
     https://michelleputtini.github.io/GIM/Esercizio_1B/template/indexB.html
