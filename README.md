@@ -39,3 +39,7 @@ asse orizzontale matita
 ### Esercizio 1c
 Commento lettura
     https://github.com/michelleputtini/GIM/blob/main/Esercizio_1C/README.md
+
+### Esercizio 3B
+(Esempio 2 {
+    https://michelleputtini.github.io/GIM/Esercizio_3B/Esempio_2/template_web_app/index.html })
