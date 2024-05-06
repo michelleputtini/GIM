@@ -30,4 +30,6 @@ https://github.com/michelleputtini/GIM.git
 [Commento lettura](https://github.com/michelleputtini/GIM/blob/main/Esercizio_1C/README.md)
 
 ### Esercizio 3B
+[Esempio 1](https://michelleputtini.github.io/GIM/Esercizio_3B/Esempio_1/template_web_app/index.html)
+
 [Esempio 2](https://michelleputtini.github.io/GIM/Esercizio_3B/Esempio_2/template_web_app/index.html)
