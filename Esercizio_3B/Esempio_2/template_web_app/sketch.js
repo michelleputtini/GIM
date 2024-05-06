@@ -9,7 +9,7 @@ function setup() {
 	posY = height/2
 
 	velX = 10
-	velY = 4
+	velY = 2
 }
 
 
@@ -18,10 +18,24 @@ function windowResize() {
 }
 
 function draw() {
-	background(200)
-
-	circle(posX, posY, 30)
 
 	posX = posX + velX
 	posY = posY + velY
+
+	if (posX >= width || posX < 0)  {
+		velX = -velX
+
+	}
+	
+	if (posY >= height || posY < 0)  {
+		velY = -velY
+
+	}
+
+	fill(random(256), random(256), random(256),)
+	noStroke()
+
+	// background(200)
+	circle(posX, posY, random(50, 300))
 }
+
