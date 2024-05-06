@@ -20,6 +20,10 @@ Corso di Grafica in Movimento - SUPSI
 
 [spostamento_3](https://michelleputtini.github.io/GIM//Esercizio_1A/template/spostamento_3.html)
 
+[spostamento_2 corretto](https://michelleputtini.github.io/GIM//Esercizio_1A/template/spostamento_2_corretto.html)
+
+[spostamento_3_corretto](https://michelleputtini.github.io/GIM//Esercizio_1A/template/spostamento_3_corretto.html)
+
 ### Esercizio 1b
 [asse orizzontale matita](https://michelleputtini.github.io/GIM/Esercizio_1B/template/indexB.html)
 
