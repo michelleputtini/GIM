@@ -32,10 +32,17 @@ function draw() {
 
 	}
 
-	fill(random(256), random(256), random(256),)
-	noStroke()
+	
 
 	// background(200)
+	let grayValue = random(256);
+	fill(grayValue, grayValue, grayValue);
+	noStroke()
+	rect(posX - 500, posY - 100, 200, 1000)
+	
+
+	fill(random(256), random(256), random(256),)
+	noStroke()
 	circle(posX, posY, random(50, 300))
 }
 
