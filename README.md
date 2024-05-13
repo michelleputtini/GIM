@@ -39,6 +39,6 @@ parole/ slogan
 [Orologio_analogico](https://michelleputtini.github.io/GIM/Esercizio_3A/orologio_analogico/)
 
 ### Esercizio 3B
-[Esercizio](https://michelleputtini.github.io/GIM/Esercizio_3B/Esempio_1/template_web_app/index.html)
+[Esercizio](https://michelleputtini.github.io/GIM/Esercizio_3B\Esercizio/index.html)
 
-[Pong](https://michelleputtini.github.io/GIM/Esercizio_3B/Esempio_2/template_web_app/index.html)
+[Pong](https://michelleputtini.github.io/GIM/Esercizio_3B\Pong/index.html)
