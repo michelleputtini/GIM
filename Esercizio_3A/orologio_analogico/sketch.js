@@ -35,8 +35,11 @@ function draw() {
 
 
 	push()
+	noStroke()
+	fill(255, 0, 0)
 	rotate(TAU / 60 * second())
 	rect(-2, 25, 4, -200)
+	circle(0, -180, 24)
 	pop()
 
 	fill(255)
