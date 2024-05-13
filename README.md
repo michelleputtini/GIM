@@ -34,7 +34,8 @@ Corso di Grafica in Movimento - SUPSI
 parole/ slogan
 
 ### Esercizio 3A
-[Orologio_esempio1](https://michelleputtini.github.io/GIM/Esercizio_3A/orologio_digitale/)
+[Orologio_digitale](https://michelleputtini.github.io/GIM/Esercizio_3A/orologio_digitale/)
+[Orologio_analogico](https://michelleputtini.github.io/GIM/Esercizio_3A/orologio_analogico/)
 
 ### Esercizio 3B
 [Esercizio](https://michelleputtini.github.io/GIM/Esercizio_3B/Esempio_1/template_web_app/index.html)
