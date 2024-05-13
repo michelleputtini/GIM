@@ -38,6 +38,8 @@ parole/ slogan
 
 [Orologio_analogico](https://michelleputtini.github.io/GIM/Esercizio_3A/orologio_analogico/)
 
+[Orologio_personale](https://michelleputtini.github.io/GIM/Esercizio_3A/orologio_digitale_definitivo/)
+
 ### Esercizio 3B
 [Esercizio](https://michelleputtini.github.io/GIM/Esercizio_3B/Esercizio/index.html)
 
