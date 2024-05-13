@@ -16,6 +16,10 @@ Corso di Grafica in Movimento - SUPSI
 
 [rotazione_3](https://michelleputtini.github.io/GIM/Esercizio_1A/template/rotazione_3.html)
 
+[rotazione_2_corretto](https://michelleputtini.github.io/GIM/Esercizio_1A/template/rotazione_2_corretto.html)
+
+[rotazione_3_corretto](https://michelleputtini.github.io/GIM/Esercizio_1A/template/rotazione_3_corretto.html)
+
 [spostamento_2](https://michelleputtini.github.io/GIM/Esercizio_1A/template/spostamento_2.html)
 
 [spostamento_3](https://michelleputtini.github.io/GIM/Esercizio_1A/template/spostamento_3.html)
@@ -26,6 +30,12 @@ Corso di Grafica in Movimento - SUPSI
 
 ### Esercizio 1b
 [asse orizzontale matita](https://michelleputtini.github.io/GIM/Esercizio_1B/template/indexB.html)
+
+[2]
+
+[3]
+
+[4]
 
 ### Esercizio 1c
 [Commento lettura](https://github.com/michelleputtini/GIM/blob/main/Esercizio_1C/README.md)
@@ -38,7 +48,15 @@ parole/ slogan
 
 [Orologio_analogico](https://michelleputtini.github.io/GIM/Esercizio_3A/orologio_analogico/)
 
+[Orologio_personale](https://michelleputtini.github.io/GIM/Esercizio_3A/orologio_digitale_definitivo/)
+
 ### Esercizio 3B
 [Esercizio](https://michelleputtini.github.io/GIM/Esercizio_3B/Esercizio/index.html)
 
 [Pong](https://michelleputtini.github.io/GIM/Esercizio_3B/Pong/index.html)
+
+[Pioggia_1](https://michelleputtini.github.io/GIM/Esercizio_3B/Pioggia_1/index.html)
+
+[Pioggia_2](https://michelleputtini.github.io/GIM/Esercizio_3B/Pioggia_2/index.html)
+
+[Neve](https://michelleputtini.github.io/GIM/Esercizio_3B/Neve/index.html)
