@@ -30,6 +30,9 @@ Corso di Grafica in Movimento - SUPSI
 ### Esercizio 1c
 [Commento lettura](https://github.com/michelleputtini/GIM/blob/main/Esercizio_1C/README.md)
 
+### Esercizio 2
+parole/ slogan
+
 ### Esercizio 3A
 [Orologio_esempio1](https://michelleputtini.github.io/GIM/Esercizio_3A/orologio_digitale/)
 
