@@ -14,7 +14,11 @@ Corso di Grafica in Movimento - SUPSI
 
 [rotazione_2](https://michelleputtini.github.io/GIM/Esercizio_1A/template/rotazione_2.html)
 
+[rotazione_2_corretto](https://michelleputtini.github.io/GIM/Esercizio_1A/template/rotazione_2_corretto.html)
+
 [rotazione_3](https://michelleputtini.github.io/GIM/Esercizio_1A/template/rotazione_3.html)
+
+[rotazione_3_corretto](https://michelleputtini.github.io/GIM/Esercizio_1A/template/rotazione_3_corretto.html)
 
 [spostamento_2](https://michelleputtini.github.io/GIM/Esercizio_1A/template/spostamento_2.html)
 
