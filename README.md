@@ -10,7 +10,7 @@ Corso di Grafica in Movimento - SUPSI
 
 [Aperto / Chiuso 2](https://michelleputtini.github.io/GIM/Esercizio_1A/template/aperto_chiuso_2.html)
 
-[Aperto / Chiuso 2](https://michelleputtini.github.io/GIM/Esercizio_1A/template/aperto_chiuso_3.html)
+[Aperto / Chiuso 3](https://michelleputtini.github.io/GIM/Esercizio_1A/template/aperto_chiuso_3.html)
 
 [Rotazione 2](https://michelleputtini.github.io/GIM/Esercizio_1A/template/rotazione_2.html)
 
