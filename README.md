@@ -4,32 +4,32 @@ Corso di Grafica in Movimento - SUPSI
 ## Collegamenti cartella
 
 ### Esercizio 1a
-[acceso_spento_2](https://michelleputtini.github.io/GIM/Esercizio_1A/template/acceso_spento_2.html)
+[Acceso / Spento 2](https://michelleputtini.github.io/GIM/Esercizio_1A/template/acceso_spento_2.html)
 
-[acceso_spento_3](https://michelleputtini.github.io/GIM/Esercizio_1A/template/acceso_spento_3.html)
+[Acceso / Spento 3](https://michelleputtini.github.io/GIM/Esercizio_1A/template/acceso_spento_3.html)
 
-[aperto_chiuso_2](https://michelleputtini.github.io/GIM/Esercizio_1A/template/aperto_chiuso_2.html)
+[Aperto / Chiuso 2](https://michelleputtini.github.io/GIM/Esercizio_1A/template/aperto_chiuso_2.html)
 
-[aperto_chiuso_3](https://michelleputtini.github.io/GIM/Esercizio_1A/template/aperto_chiuso_3.html)
+[Aperto / Chiuso 2](https://michelleputtini.github.io/GIM/Esercizio_1A/template/aperto_chiuso_3.html)
 
-[rotazione_2](https://michelleputtini.github.io/GIM/Esercizio_1A/template/rotazione_2.html)
+[Rotazione 2](https://michelleputtini.github.io/GIM/Esercizio_1A/template/rotazione_2.html)
 
-[rotazione_3](https://michelleputtini.github.io/GIM/Esercizio_1A/template/rotazione_3.html)
+[Rotazione 3](https://michelleputtini.github.io/GIM/Esercizio_1A/template/rotazione_3.html)
 
-[rotazione_2_corretto](https://michelleputtini.github.io/GIM/Esercizio_1A/template/rotazione_2_corretto.html)
+[Rotazione 2 (corretto)](https://michelleputtini.github.io/GIM/Esercizio_1A/template/rotazione_2_corretto.html)
 
-[rotazione_3_corretto](https://michelleputtini.github.io/GIM/Esercizio_1A/template/rotazione_3_corretto.html)
+[Rotazione 3 (corretto)](https://michelleputtini.github.io/GIM/Esercizio_1A/template/rotazione_3_corretto.html)
 
-[spostamento_2](https://michelleputtini.github.io/GIM/Esercizio_1A/template/spostamento_2.html)
+[Spostamento 2](https://michelleputtini.github.io/GIM/Esercizio_1A/template/spostamento_2.html)
 
-[spostamento_3](https://michelleputtini.github.io/GIM/Esercizio_1A/template/spostamento_3.html)
+[Spostamento 3](https://michelleputtini.github.io/GIM/Esercizio_1A/template/spostamento_3.html)
 
-[spostamento_2 corretto](https://michelleputtini.github.io/GIM/Esercizio_1A/template/spostamento_2_corretto.html)
+[Spostamento 2 (corretto)](https://michelleputtini.github.io/GIM/Esercizio_1A/template/spostamento_2_corretto.html)
 
-[spostamento_3_corretto](https://michelleputtini.github.io/GIM/Esercizio_1A/template/spostamento_3_corretto.html)
+[Spostamento 3 (corretto)](https://michelleputtini.github.io/GIM/Esercizio_1A/template/spostamento_3_corretto.html)
 
 ### Esercizio 1b
-[asse orizzontale matita](https://michelleputtini.github.io/GIM/Esercizio_1B/template/indexB.html)
+[Asse orizzontale (matita)](https://michelleputtini.github.io/GIM/Esercizio_1B/template/indexB.html)
 
 [2]
 
@@ -44,19 +44,19 @@ Corso di Grafica in Movimento - SUPSI
 parole/ slogan
 
 ### Esercizio 3A
-[Orologio_digitale](https://michelleputtini.github.io/GIM/Esercizio_3A/orologio_digitale/)
+[Orologio digitale](https://michelleputtini.github.io/GIM/Esercizio_3A/orologio_digitale/)
 
-[Orologio_analogico](https://michelleputtini.github.io/GIM/Esercizio_3A/orologio_analogico/)
+[Orologio analogico](https://michelleputtini.github.io/GIM/Esercizio_3A/orologio_analogico/)
 
-[Orologio_personale](https://michelleputtini.github.io/GIM/Esercizio_3A/orologio_digitale_definitivo/)
+[Orologio personale](https://michelleputtini.github.io/GIM/Esercizio_3A/orologio_digitale_definitivo/)
 
 ### Esercizio 3B
 [Esercizio](https://michelleputtini.github.io/GIM/Esercizio_3B/Esercizio/index.html)
 
 [Pong](https://michelleputtini.github.io/GIM/Esercizio_3B/Pong/index.html)
 
-[Pioggia_1](https://michelleputtini.github.io/GIM/Esercizio_3B/Pioggia_1/index.html)
+[Pioggia 1](https://michelleputtini.github.io/GIM/Esercizio_3B/Pioggia_1/index.html)
 
-[Pioggia_2](https://michelleputtini.github.io/GIM/Esercizio_3B/Pioggia_2/index.html)
+[Pioggia 2](https://michelleputtini.github.io/GIM/Esercizio_3B/Pioggia_2/index.html)
 
 [Neve](https://michelleputtini.github.io/GIM/Esercizio_3B/Neve/index.html)
