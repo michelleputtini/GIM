@@ -6,7 +6,7 @@ Corso di Grafica in Movimento - SUPSI
 ### Esercizio 1a
 [acceso_spento_2](https://michelleputtini.github.io/GIM/Esercizio_1A/template/acceso_spento_2.html)
 
-[aperto_chiuso_3](https://michelleputtini.github.io/GIM/Esercizio_1A/template/acceso_spento_3.html)
+[acceso_spento_3](https://michelleputtini.github.io/GIM/Esercizio_1A/template/acceso_spento_3.html)
 
 [aperto_chiuso_2](https://michelleputtini.github.io/GIM/Esercizio_1A/template/aperto_chiuso_2.html)
 
