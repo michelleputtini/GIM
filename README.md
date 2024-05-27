@@ -39,7 +39,7 @@ Corso di Grafica in Movimento - SUPSI
 [Commento lettura](https://github.com/michelleputtini/GIM/blob/main/Esercizio_1C/README.md)
 
 ### Esercizio 2
-[Roma-Amor](https://github.com/michelleputtini/GIM/blob/main/Esercizio_2/template/roma.md)
+[Roma-Amor](https://michelleputtini.github.io/GIM/Esercizio_2/template/roma.html)
 
 ### Esercizio 3A
 [Orologio digitale](https://michelleputtini.github.io/GIM/Esercizio_3A/orologio_digitale/)
