@@ -33,9 +33,7 @@ Corso di Grafica in Movimento - SUPSI
 
 [Asse verticale (matita)](https://michelleputtini.github.io/GIM/Esercizio_1B/template/indexB.html)
 
-[3]
-
-[4]
+[Asse verticale (forme)](https://michelleputtini.github.io/GIM/Esercizio_1B/template/indexC.html)
 
 ### Esercizio 1c
 [Commento lettura](https://github.com/michelleputtini/GIM/blob/main/Esercizio_1C/README.md)
