@@ -45,6 +45,4 @@ function draw() {
 	stroke(255, 255, 0)
 	ellipse(width / 2, height / 2, secondSize, secondSize)
 
-
-
 }
