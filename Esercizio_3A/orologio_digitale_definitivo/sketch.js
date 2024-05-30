@@ -25,10 +25,13 @@ function draw() {
 	}
 
 	
-	let hourSize = map(h % 12, 0, 11, 0, width / 3)
-	let minuteSize = map(m, 0, 59, 0, width / 3)
-	let secondSize = map(s, 0, 59, 0, width / 3)
-
+	const diam = min(height, width) * 0.9
+	const hourSize = map(h % 12, 0, 11, 0, diam)
+	const minuteSize = map(m, 0, 59, 0, diam)
+	const secondSize = map(s, 0, 59, 0, diam)
+	
+	stroke(0, 100, 10)
+	ellipse(width / 2, height / 2, diam, diam)
 
 	noFill()
 	strokeWeight(15)
