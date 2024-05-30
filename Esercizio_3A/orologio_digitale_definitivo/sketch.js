@@ -30,22 +30,23 @@ function draw() {
 	const minuteSize = map(m, 0, 59, 0, diam)
 	const secondSize = map(s, 0, 59, 0, diam)
 	
-	stroke(0, 100, 10)
+	stroke(128, 128, 128, 80)
+	strokeWeight(0.5)
 	ellipse(width / 2, height / 2, diam, diam)
 
 	noFill()
-	strokeWeight(15)
-	stroke(0, 90, 255)
+	strokeWeight(16)
+	stroke(30, 150, 255) //blu
 	ellipse(width / 2, height / 2, hourSize, hourSize)
 
 	noFill()
-	strokeWeight(5)
-	stroke(255, 50, 0)
+	strokeWeight(6)
+	stroke(255, 50, 80) //rosso
 	ellipse(width / 2, height / 2, minuteSize, minuteSize)
 
 	noFill()
-	strokeWeight(1)
-	stroke(255, 255, 0)
+	strokeWeight(2)
+	stroke(230, 230, 0) //giallo
 	ellipse(width / 2, height / 2, secondSize, secondSize)
 
 }
