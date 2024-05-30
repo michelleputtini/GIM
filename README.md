@@ -8,6 +8,10 @@ Corso di Grafica in Movimento - SUPSI
 
 [Acceso / Spento 3](https://michelleputtini.github.io/GIM/Esercizio_1A/template/acceso_spento_3.html)
 
+[Acceso / Spento 2 (corretto)](https://michelleputtini.github.io/GIM/Esercizio_1A/template/acceso_spento_2_corretto.html)
+
+[Acceso / Spento 3 (corretto)](https://michelleputtini.github.io/GIM/Esercizio_1A/template/acceso_spento_3_corretto.html)
+
 [Aperto / Chiuso 2](https://michelleputtini.github.io/GIM/Esercizio_1A/template/aperto_chiuso_2.html)
 
 [Aperto / Chiuso 3](https://michelleputtini.github.io/GIM/Esercizio_1A/template/aperto_chiuso_3.html)
