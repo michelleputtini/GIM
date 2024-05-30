@@ -3,7 +3,7 @@ Corso di Grafica in Movimento - SUPSI
 
 ## Collegamenti cartella
 
-### Esercizio 1a
+### Esercizio 1A
 
 [Acceso / Spento 2](https://michelleputtini.github.io/GIM/Esercizio_1A/template/acceso_spento_2_corretto.html)
 
@@ -21,14 +21,14 @@ Corso di Grafica in Movimento - SUPSI
 
 [Spostamento 3](https://michelleputtini.github.io/GIM/Esercizio_1A/template/spostamento_3_corretto.html)
 
-### Esercizio 1b
+### Esercizio 1B
 [Asse orizzontale (freccia)](https://michelleputtini.github.io/GIM/Esercizio_1B/template/indexA.html)
 
 [Asse verticale (cursore)](https://michelleputtini.github.io/GIM/Esercizio_1B/template/indexC.html)
 
 [Asse verticale (forme)](https://michelleputtini.github.io/GIM/Esercizio_1B/template/indexD.html)
 
-### Esercizio 1c
+### Esercizio 1C
 [Commento lettura](https://github.com/michelleputtini/GIM/blob/main/Esercizio_1C/README.md)
 
 ### Esercizio 2
